@@ -24,24 +24,24 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by @d4mch</b>
+👨‍💻 Develoved by @d4msy</b>
 """
 
     close = [
-        [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
+        [InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close")]
     ]
 
     mbuttons = [
         [
-            InlineKeyboardButton("ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
+            InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close")
         ],
     ]
 
     buttons = [
         [
-            InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ", callback_data="about"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
+            InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about"),
+            InlineKeyboardButton("ᴄʟᴏsᴇ", callback_data="close")
         ],
     ]
 
@@ -53,5 +53,5 @@ class Data:
  • Creator: @{}
  • Owner Repo: @d4msy
 
-👨‍💻 Develoved by @d4mch</b>
+👨‍💻 Develoved by @d4msy</b>
 """
